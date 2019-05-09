@@ -18,7 +18,7 @@ You will be able to:
 
 To start, you investigated Bayes' theorem and some hypothetical examples.
 
-## $$ P(A|B) = \dfrac{P(B|A)P(A)}{P(B)}$$
+$$ \large P(A|B) = \dfrac{P(B|A)P(A)}{P(B)}$$
 
 
 ## Bayesian Statistics
