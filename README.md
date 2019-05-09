@@ -11,7 +11,7 @@ You will be able to:
 
 * Summarize Bayes' Theorem and potential applications
 * Discuss various Naive Bayes algorithms
-* Discuss the difference between frequentists and Bayesian statistics
+* Discuss the difference between Frequentists and Bayesian statistics
 
 
 ## Bayes' Theorem
@@ -24,7 +24,7 @@ To start, you investigated Bayes' theorem and some hypothetical examples.
 ## Bayesian Statistics
 
 
-From there, you then went on to read more about some of the philosophical differences between Bayesians and frequentists. Bayesians interpret probability as the level of confidence or belief in an event. In contrast, frequentists view probability as the limit as the number of trials goes to infinity of successes versus trials. 
+From there, you then went on to read more about some of the philosophical differences between Bayesians and Frequentists. Bayesians interpret probability as the level of confidence or belief in an event. In contrast, Frequentists view probability as the limit as the number of trials goes to infinity of successes versus trials. 
 
 ## MLE and MAP
 
@@ -32,7 +32,7 @@ In outlining the discussion of Bayesian techniques, you got an introduction to M
 
 ## Gaussian Naive Bayes
 
-In moving to machine learning applications, you first investigated the Gaussian Naive Bayes classifier. This produced powerful results when applied to the two small datasets explored. To do this, you viewed each feature as a normal distribution using the mean and standard deviation for a particular subgroup. You then used these to find point estimates along the PDF and fed this through a multinomial bayes setup.
+In moving to machine learning applications, you first investigated the Gaussian Naive Bayes classifier. This produced powerful results when applied to the two small datasets explored. To do this, you viewed each feature as a normal distribution using the mean and standard deviation for a particular subgroup. You then used these to find point estimates along the PDF and fed this through a multinomial Bayes setup.
 
 ## Document Classification with Naive Bayes
 
@@ -40,4 +40,4 @@ After exploring Bayes using normal distributions, you then investigated an offsh
 
 ## Summary
 
-Again, quite a bit was covered in this section. There is certainly plenty of additional resources availble if you wish to further dive into MLE, MAP or other Bayesian techniques. Bayesian inference can provide a powerful a powerful framework for quantifying and reasoning with uncertainty that has continued to gain popularity with additional computing resources. 
+Again, quite a bit was covered in this section. There is certainly plenty of additional resources available if you wish to further dive into MLE, MAP or other Bayesian techniques. Bayesian inference can provide a powerful a powerful framework for quantifying and reasoning with uncertainty that has continued to gain popularity with additional computing resources. 
