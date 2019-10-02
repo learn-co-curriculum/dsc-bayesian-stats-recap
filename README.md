@@ -40,4 +40,4 @@ After exploring Bayes using normal distributions, you then investigated an offsh
 
 ## Summary
 
-Again, quite a bit was covered in this section. There is certainly plenty of additional resources available if you wish to further dive into MLE, MAP or other Bayesian techniques. Bayesian inference can provide a powerful a powerful framework for quantifying and reasoning with uncertainty that has continued to gain popularity with additional computing resources. 
+Again, quite a bit was covered in this section. There is certainly plenty of additional resources available if you wish to further dive into MLE, MAP or other Bayesian techniques. Bayesian inference can provide a powerful framework for quantifying and reasoning with uncertainty that has continued to gain popularity with additional computing resources. 
